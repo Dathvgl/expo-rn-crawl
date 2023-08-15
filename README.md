@@ -1,0 +1,1 @@
+React native dùng để đọc truyện crawl từ server.
